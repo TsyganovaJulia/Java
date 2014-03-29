@@ -5,7 +5,7 @@ package ru.kpfu.npp.math;
  */
 
 public class matrixArrayImp implements matrix {
-  
+
     private int[][] matrix; //поле класса
     private static final int MAX_ROWS = 30;
     private static final int MAX_COLUMNS = 30;
